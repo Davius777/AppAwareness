@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">App Awareness</string>
+    <string name="transporte">En transporte</string>
+    <string name="bicicleta">En bicicleta</string>
+    <string name="pie">A pie</string>
+    <string name="corriendo">Corriendo</string>
+    <string name="quieto">Quieto</string>
+    <string name="desconocido">Desconocido</string>
+    <string name="caminando">Caminando</string>
+</resources>

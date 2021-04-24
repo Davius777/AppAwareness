@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tamanio_logo">280dp</dimen>
+    <dimen name="tamanio_imagen">100dp</dimen>
+    <dimen name="margen">100px</dimen>
+    <dimen name="texto">32px</dimen>
+</resources>
